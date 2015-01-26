@@ -74,3 +74,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Compiler data
+Debug
+*.launch
+.settings
+
+#freertos sourcecode
+freertos
